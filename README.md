@@ -6,7 +6,7 @@
 This repository contains the answers to SQL exercises aimed at improving foundational database skills. These questions cover a wide array of topics including creating tables, using constraints, joins, aggregate functions, and more.
 
 ## 📂 File Structure
-- [SQL Answers.sql]: Contains the SQL queries addressing the assignment questions.
+- [SQL File.sql](https://github.com/jaytamkhane/SQL-Basics-to-Advance/blob/main/SQL%20basic%20Assignment.sql): Contains the SQL queries addressing the assignment questions.
 
 ## 📝 Assignment Topics Covered
 - **Table Creation**: How to create tables with constraints.
